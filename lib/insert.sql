@@ -15,4 +15,7 @@ INSERT INTO users (id, name, age) VALUES (3, "Sean", 31);
 INSERT INTO users (id, name, age) VALUES (4, "Danielle", 29);
 INSERT INTO users (id, name, age) VALUES (5, "Joe", 31);
 INSERT INTO users (id, name, age) VALUES (6, "Jen", 31);
-INSERT INTO users (id, name, age) VALUES
+INSERT INTO users (id, name, age) VALUES (7, "Brian", 31);
+INSERT INTO users (id, name, age) VALUES (8, "Mike", 50);
+INSERT INTO users (id, name, age) VALUES (9, "Jon", 38);
+INSERT INTO users (id, name, age) VALUES ()
