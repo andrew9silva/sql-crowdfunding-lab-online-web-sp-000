@@ -12,4 +12,7 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO users (id, name, age) VALUES (1, "Andrew", 30);
 INSERT INTO users (id, name, age) VALUES (2, "Jessica", 29);
 INSERT INTO users (id, name, age) VALUES (3, "Sean", 31);
-INSERT INTO users (id, name, age) VALUES (4, "Danielle", 29); 
+INSERT INTO users (id, name, age) VALUES (4, "Danielle", 29);
+INSERT INTO users (id, name, age) VALUES (5, "Joe", 31);
+INSERT INTO users (id, name, age) VALUES (6, "Jen", 31);
+INSERT INTO users (id, name, age) VALUES
