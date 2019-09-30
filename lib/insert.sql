@@ -18,4 +18,14 @@ INSERT INTO users (id, name, age) VALUES (6, "Jen", 31);
 INSERT INTO users (id, name, age) VALUES (7, "Brian", 31);
 INSERT INTO users (id, name, age) VALUES (8, "Mike", 50);
 INSERT INTO users (id, name, age) VALUES (9, "Jon", 38);
-INSERT INTO users (id, name, age) VALUES ()
+INSERT INTO users (id, name, age) VALUES (10, "Ari", 35);
+INSERT INTO users (id, name, age) VALUES (11, "Erin", 36);
+INSERT INTO users (id, name, age) VALUES (12, "Miguel" 24);
+INSERT INTO users (id, name, age) VALUES (13, "Tim", 59);
+INSERT INTO users (id, name, age) VALUES (14, "Sue", 61);
+INSERT INTO users (id, name, age) VALUES (15, "Mookie", 26);
+INSERT INTO users (id, name, age) VALUES (16, "Javier", 32);
+INSERT INTO users (id, name, age) VALUES (17, "Edgar", 27);
+INSERT INTO users (id, name, age) VALUES (18, "Ed", 50);
+INSERT INTO users (id, name, age) VALUES (19, "Carly", 25);
+INSERT INTO users (id, name, age) VALUES (20, "Jorge", 18);
