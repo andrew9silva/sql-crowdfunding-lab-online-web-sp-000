@@ -9,15 +9,15 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 9", "Category 9", 900, "9/30/19", "10/3/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Project 10", "Category 10", 1000, "10/1/19", "10/8/19");
 
-INSERT INTO users (name, age) VALUES (1, "Andrew", 30);
-INSERT INTO users (name, age) VALUES (2, "Jessica", 29);
-INSERT INTO users (name, age) VALUES (3, "Sean", 31);
-INSERT INTO users (name, age) VALUES (4, "Danielle", 29);
-INSERT INTO users (name, age) VALUES (5, "Joe", 31);
-INSERT INTO users (name, age) VALUES (6, "Jen", 31);
-INSERT INTO users (name, age) VALUES (7, "Brian", 31);
-INSERT INTO users (name, age) VALUES (8, "Mike", 50);
-INSERT INTO users (name, age) VALUES (9, "Jon", 38);
+INSERT INTO users (name, age) VALUES ("Andrew", 30);
+INSERT INTO users (name, age) VALUES ("Jessica", 29);
+INSERT INTO users (name, age) VALUES ("Sean", 31);
+INSERT INTO users (name, age) VALUES ("Danielle", 29);
+INSERT INTO users (name, age) VALUES ("Joe", 31);
+INSERT INTO users (name, age) VALUES ("Jen", 31);
+INSERT INTO users (name, age) VALUES ("Brian", 31);
+INSERT INTO users (name, age) VALUES ("Mike", 50);
+INSERT INTO users (name, age) VALUES ("Jon", 38);
 INSERT INTO users (name, age) VALUES ("Ari", 35);
 INSERT INTO users (name, age) VALUES ("Erin", 36);
 INSERT INTO users (name, age) VALUES ("Miguel" 24);
